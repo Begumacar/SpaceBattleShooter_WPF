@@ -1,0 +1,16 @@
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\bin\Debug\SpaceBattleShooter_WPF.exe.config
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\bin\Debug\SpaceBattleShooter_WPF.exe
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\bin\Debug\SpaceBattleShooter_WPF.pdb
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.csproj.AssemblyReference.cache
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\App.g.cs
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF_MarkupCompile.cache
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF_MarkupCompile.lref
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\MainWindow.baml
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.g.resources
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.Properties.Resources.resources
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.csproj.GenerateResource.cache
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.exe
+C:\Users\Begüm\source\repos\SpaceBattleShooter_WPF\SpaceBattleShooter_WPF\obj\Debug\SpaceBattleShooter_WPF.pdb
